@@ -1,0 +1,68 @@
+Question 1: 
+
+Hi George,
+
+I would be a pleasure to help you. I’ll provide you with some definitions for the concepts you mentioned, and I'll also shed some light on what metrics could be useful for a "Custom Ranking."
+
+	•	Records
+
+In the context of search engines, a record is a single unit of information that is stored in the search index. A record can be a web page, a document, a product, or any other type of content that the search engine is able to index.
+
+	•	Indexing
+
+Indexing is the process of creating a searchable database of records. When a search engine indexes a record, it breaks it down into its constituent parts, such as words, phrases, and metadata. These parts are then stored in the search index, along with pointers to the original records.
+
+	•	Custom Ranking
+
+Custom ranking is the process of modifying the search engine's ranking algorithm to prioritize certain types of records over others. This can be done by adding or modifying ranking factors, or by assigning weights to different factors.
+
+Useful metrics for custom ranking
+
+	•	Click-through rate (CTR): The percentage of users who click on a search result.
+	•	Dwell time: The amount of time users spend on a search result page.
+	•	Bounce rate: The percentage of users who leave a search result page after viewing only one page.
+	•	Conversion rate: The percentage of users who complete a desired action, such as making a purchase or signing up for a newsletter.
+	•	Relevance: The degree to which a search result is relevant to the user's query.
+	•	Novelty: The degree to which a search result is new and different from other results.
+	•	Authority: The degree to which a search result is from a trusted source.
+	•	Quality: The degree to which a search result is well-written and informative.
+
+By tracking these metrics, search engine professionals can gain insights into how users are interacting with search results. This information can then be used to improve the relevance and effectiveness of custom ranking algorithms.
+
+I hope this helps! Let me know if you have any other questions.
+
+Kind regards, 
+Charles
+
+Question 2: 
+
+Hi Matt, 
+
+Thank you for your feedback, no matter if it’s positive or negative it’s very important for us to collect feedbacks from our power users. 
+I’m sorry to hear that you have some issues with our new dashboard, I’d be happy to set up a meet with you to discuss this in more detail, maybe we’ll find an other way to clear an delete indexes. In the meantime I’ll share your feedback to the product team and will keep you posted if an update is planned. 
+
+Kind regards, 
+Charles
+
+Question 3:
+
+Hi Leo, 
+
+The amount of development work required to integrate Algolia into your website will depend on a number of factors, such as the size and complexity of your website, the level of customization you require, and your existing development infrastructure.
+
+If you are comfortable with coding, you can integrate Algolia into your website using the Algolia API. However, if you are not a developer, you can use one of Algolia's pre-built integrations for popular CMS. These integrations make it easy to add Algolia to your website without having to write any code.
+
+Once Algolia is integrated into your website, you can start using it to provide your users with a fast and relevant search experience.
+
+Here are some additional tips for integrating Algolia into your website:
+
+	•	Start with a basic implementation and then add features as needed. This will help you to get up and running quickly and avoid getting bogged down in the details.
+
+	•	Use Algolia's documentation and tutorials to learn more about how to use the API and InstantSearch libraries.
+
+	•	If you get stuck, don't hesitate to contact Algolia's support team for help.
+
+Here’s our documentation https://www.algolia.com/doc/  which is very detailed, if you have any questions don’t hesitate to reach out. 
+
+Kind regards, 
+Charles
